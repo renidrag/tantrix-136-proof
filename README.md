@@ -129,6 +129,10 @@ Follow the [setup instructions](lean/README.md#first-run), then run this from th
 bash lean/verify.sh
 ```
 
+GitHub Actions also rebuilds the proof and runs the dependency audit and kernel check on every push.
+
+[![Verify Lean proof](https://github.com/renidrag/tantrix-136-proof/actions/workflows/verify.yml/badge.svg?event=push)](https://github.com/renidrag/tantrix-136-proof/actions/workflows/verify.yml)
+
 <details>
 <summary>Verification details</summary>
 
