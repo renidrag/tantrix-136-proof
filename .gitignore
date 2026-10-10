@@ -1,0 +1,17 @@
+# Lean dependencies, build output and local logs
+/lean/.lake/
+/lean/*.log
+
+# Local editor and agent settings
+/.nova/
+/AGENTS.md
+
+# Operating system metadata
+.DS_Store
+._*
+Thumbs.db
+
+# Editor swap and backup files
+*.swp
+*.swo
+*~

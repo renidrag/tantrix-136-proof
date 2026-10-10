@@ -1,0 +1,57 @@
+name: Verify Lean proof
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    env:
+      LEAN_NUM_THREADS: "1"
+      RAYON_NUM_THREADS: "1"
+    defaults:
+      run:
+        shell: bash
+        working-directory: lean
+    steps:
+      - name: Check out the proof package
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+
+      - name: Check the source snapshot
+        run: sha256sum --check SHA256SUMS
+
+      - name: Install the pinned Lean toolchain
+        uses: leanprover/lean-action@f061402b660e0c34644504b324e830f2991d4865 # v1
+        with:
+          lake-package-directory: lean
+          auto-config: "false"
+          use-github-cache: "false"
+          use-mathlib-cache: "false"
+
+      - name: Fetch the required Mathlib cache
+        run: |
+          lake exe cache get \
+            Mathlib.Tactic.Ring Mathlib.Tactic.Linarith \
+            Mathlib.Data.ZMod.Basic Mathlib.Data.Int.Interval \
+            Mathlib.Algebra.BigOperators.Intervals \
+            Mathlib.LinearAlgebra.Matrix.Rank Mathlib.Algebra.Field.ZMod \
+            Mathlib.FieldTheory.Finiteness Mathlib.Tactic.FinCases \
+            Mathlib.Data.List.Basic Mathlib.Algebra.Group.Prod \
+            Mathlib.Data.Fin.VecNotation Mathlib.Data.List.Lex \
+            Mathlib.Data.List.Permutation Mathlib.Data.Finset.Max \
+            Mathlib.Data.List.Perm.Basic Mathlib.Algebra.Order.BigOperators.Group.List \
+            Mathlib.Algebra.Order.BigOperators.Ring.Finset
+
+      - name: Build the proof and audit its dependencies
+        run: bash verify.sh
+
+      - name: Recheck the compiled proof with Lean's kernel
+        run: lake env leanchecker -v Tantrix

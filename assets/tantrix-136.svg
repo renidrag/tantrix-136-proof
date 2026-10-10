@@ -1,0 +1,914 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="724" viewBox="0 0 800 724" role="img" aria-labelledby="title description">
+<title id="title">Milan Kuchtiak’s 136-point Tantrix configuration</title>
+<desc id="description">All 56 numbered tiles appear once. The highlighted closed loops have lengths red 33, blue 35, green 38 and yellow 30, totalling 136. Other paths are shown dimly. The arrangement is drawn directly from the checked Coloured136 certificate.</desc>
+<!-- Data: Tantrix.Loops.Coloured136 in ColouredSharpness.lean; SHA-256 73e967d15b9a05dc22586a1db8f121f376f932e28bbc85cb80c54107f06c917d. Construction: Milan Kuchtiak. Original record and tile inventory: https://www.jaapsch.net/puzzles/tantrix.htm . This is a fresh vector drawing, not the source artwork. -->
+<rect width="800" height="724" fill="#ffffff"/>
+<defs>
+<clipPath id="clip-0"><polygon points="431.17691,90.00000 400.00000,108.00000 368.82309,90.00000 368.82309,54.00000 400.00000,36.00000 431.17691,54.00000"/></clipPath>
+<clipPath id="clip-1"><polygon points="400.00000,144.00000 368.82309,162.00000 337.64617,144.00000 337.64617,108.00000 368.82309,90.00000 400.00000,108.00000"/></clipPath>
+<clipPath id="clip-2"><polygon points="368.82309,198.00000 337.64617,216.00000 306.46926,198.00000 306.46926,162.00000 337.64617,144.00000 368.82309,162.00000"/></clipPath>
+<clipPath id="clip-3"><polygon points="337.64617,252.00000 306.46926,270.00000 275.29234,252.00000 275.29234,216.00000 306.46926,198.00000 337.64617,216.00000"/></clipPath>
+<clipPath id="clip-4"><polygon points="306.46926,306.00000 275.29234,324.00000 244.11543,306.00000 244.11543,270.00000 275.29234,252.00000 306.46926,270.00000"/></clipPath>
+<clipPath id="clip-5"><polygon points="275.29234,360.00000 244.11543,378.00000 212.93851,360.00000 212.93851,324.00000 244.11543,306.00000 275.29234,324.00000"/></clipPath>
+<clipPath id="clip-6"><polygon points="244.11543,414.00000 212.93851,432.00000 181.76160,414.00000 181.76160,378.00000 212.93851,360.00000 244.11543,378.00000"/></clipPath>
+<clipPath id="clip-7"><polygon points="212.93851,468.00000 181.76160,486.00000 150.58468,468.00000 150.58468,432.00000 181.76160,414.00000 212.93851,432.00000"/></clipPath>
+<clipPath id="clip-8"><polygon points="181.76160,522.00000 150.58468,540.00000 119.40777,522.00000 119.40777,486.00000 150.58468,468.00000 181.76160,486.00000"/></clipPath>
+<clipPath id="clip-9"><polygon points="150.58468,576.00000 119.40777,594.00000 88.23085,576.00000 88.23085,540.00000 119.40777,522.00000 150.58468,540.00000"/></clipPath>
+<clipPath id="clip-10"><polygon points="462.35383,144.00000 431.17691,162.00000 400.00000,144.00000 400.00000,108.00000 431.17691,90.00000 462.35383,108.00000"/></clipPath>
+<clipPath id="clip-11"><polygon points="431.17691,198.00000 400.00000,216.00000 368.82309,198.00000 368.82309,162.00000 400.00000,144.00000 431.17691,162.00000"/></clipPath>
+<clipPath id="clip-12"><polygon points="400.00000,252.00000 368.82309,270.00000 337.64617,252.00000 337.64617,216.00000 368.82309,198.00000 400.00000,216.00000"/></clipPath>
+<clipPath id="clip-13"><polygon points="368.82309,306.00000 337.64617,324.00000 306.46926,306.00000 306.46926,270.00000 337.64617,252.00000 368.82309,270.00000"/></clipPath>
+<clipPath id="clip-14"><polygon points="337.64617,360.00000 306.46926,378.00000 275.29234,360.00000 275.29234,324.00000 306.46926,306.00000 337.64617,324.00000"/></clipPath>
+<clipPath id="clip-15"><polygon points="306.46926,414.00000 275.29234,432.00000 244.11543,414.00000 244.11543,378.00000 275.29234,360.00000 306.46926,378.00000"/></clipPath>
+<clipPath id="clip-16"><polygon points="275.29234,468.00000 244.11543,486.00000 212.93851,468.00000 212.93851,432.00000 244.11543,414.00000 275.29234,432.00000"/></clipPath>
+<clipPath id="clip-17"><polygon points="244.11543,522.00000 212.93851,540.00000 181.76160,522.00000 181.76160,486.00000 212.93851,468.00000 244.11543,486.00000"/></clipPath>
+<clipPath id="clip-18"><polygon points="212.93851,576.00000 181.76160,594.00000 150.58468,576.00000 150.58468,540.00000 181.76160,522.00000 212.93851,540.00000"/></clipPath>
+<clipPath id="clip-19"><polygon points="493.53074,198.00000 462.35383,216.00000 431.17691,198.00000 431.17691,162.00000 462.35383,144.00000 493.53074,162.00000"/></clipPath>
+<clipPath id="clip-20"><polygon points="462.35383,252.00000 431.17691,270.00000 400.00000,252.00000 400.00000,216.00000 431.17691,198.00000 462.35383,216.00000"/></clipPath>
+<clipPath id="clip-21"><polygon points="431.17691,306.00000 400.00000,324.00000 368.82309,306.00000 368.82309,270.00000 400.00000,252.00000 431.17691,270.00000"/></clipPath>
+<clipPath id="clip-22"><polygon points="400.00000,360.00000 368.82309,378.00000 337.64617,360.00000 337.64617,324.00000 368.82309,306.00000 400.00000,324.00000"/></clipPath>
+<clipPath id="clip-23"><polygon points="368.82309,414.00000 337.64617,432.00000 306.46926,414.00000 306.46926,378.00000 337.64617,360.00000 368.82309,378.00000"/></clipPath>
+<clipPath id="clip-24"><polygon points="337.64617,468.00000 306.46926,486.00000 275.29234,468.00000 275.29234,432.00000 306.46926,414.00000 337.64617,432.00000"/></clipPath>
+<clipPath id="clip-25"><polygon points="306.46926,522.00000 275.29234,540.00000 244.11543,522.00000 244.11543,486.00000 275.29234,468.00000 306.46926,486.00000"/></clipPath>
+<clipPath id="clip-26"><polygon points="275.29234,576.00000 244.11543,594.00000 212.93851,576.00000 212.93851,540.00000 244.11543,522.00000 275.29234,540.00000"/></clipPath>
+<clipPath id="clip-27"><polygon points="524.70766,252.00000 493.53074,270.00000 462.35383,252.00000 462.35383,216.00000 493.53074,198.00000 524.70766,216.00000"/></clipPath>
+<clipPath id="clip-28"><polygon points="493.53074,306.00000 462.35383,324.00000 431.17691,306.00000 431.17691,270.00000 462.35383,252.00000 493.53074,270.00000"/></clipPath>
+<clipPath id="clip-29"><polygon points="462.35383,360.00000 431.17691,378.00000 400.00000,360.00000 400.00000,324.00000 431.17691,306.00000 462.35383,324.00000"/></clipPath>
+<clipPath id="clip-30"><polygon points="431.17691,414.00000 400.00000,432.00000 368.82309,414.00000 368.82309,378.00000 400.00000,360.00000 431.17691,378.00000"/></clipPath>
+<clipPath id="clip-31"><polygon points="400.00000,468.00000 368.82309,486.00000 337.64617,468.00000 337.64617,432.00000 368.82309,414.00000 400.00000,432.00000"/></clipPath>
+<clipPath id="clip-32"><polygon points="368.82309,522.00000 337.64617,540.00000 306.46926,522.00000 306.46926,486.00000 337.64617,468.00000 368.82309,486.00000"/></clipPath>
+<clipPath id="clip-33"><polygon points="337.64617,576.00000 306.46926,594.00000 275.29234,576.00000 275.29234,540.00000 306.46926,522.00000 337.64617,540.00000"/></clipPath>
+<clipPath id="clip-34"><polygon points="555.88457,306.00000 524.70766,324.00000 493.53074,306.00000 493.53074,270.00000 524.70766,252.00000 555.88457,270.00000"/></clipPath>
+<clipPath id="clip-35"><polygon points="524.70766,360.00000 493.53074,378.00000 462.35383,360.00000 462.35383,324.00000 493.53074,306.00000 524.70766,324.00000"/></clipPath>
+<clipPath id="clip-36"><polygon points="493.53074,414.00000 462.35383,432.00000 431.17691,414.00000 431.17691,378.00000 462.35383,360.00000 493.53074,378.00000"/></clipPath>
+<clipPath id="clip-37"><polygon points="462.35383,468.00000 431.17691,486.00000 400.00000,468.00000 400.00000,432.00000 431.17691,414.00000 462.35383,432.00000"/></clipPath>
+<clipPath id="clip-38"><polygon points="431.17691,522.00000 400.00000,540.00000 368.82309,522.00000 368.82309,486.00000 400.00000,468.00000 431.17691,486.00000"/></clipPath>
+<clipPath id="clip-39"><polygon points="400.00000,576.00000 368.82309,594.00000 337.64617,576.00000 337.64617,540.00000 368.82309,522.00000 400.00000,540.00000"/></clipPath>
+<clipPath id="clip-40"><polygon points="587.06149,360.00000 555.88457,378.00000 524.70766,360.00000 524.70766,324.00000 555.88457,306.00000 587.06149,324.00000"/></clipPath>
+<clipPath id="clip-41"><polygon points="555.88457,414.00000 524.70766,432.00000 493.53074,414.00000 493.53074,378.00000 524.70766,360.00000 555.88457,378.00000"/></clipPath>
+<clipPath id="clip-42"><polygon points="524.70766,468.00000 493.53074,486.00000 462.35383,468.00000 462.35383,432.00000 493.53074,414.00000 524.70766,432.00000"/></clipPath>
+<clipPath id="clip-43"><polygon points="493.53074,522.00000 462.35383,540.00000 431.17691,522.00000 431.17691,486.00000 462.35383,468.00000 493.53074,486.00000"/></clipPath>
+<clipPath id="clip-44"><polygon points="462.35383,576.00000 431.17691,594.00000 400.00000,576.00000 400.00000,540.00000 431.17691,522.00000 462.35383,540.00000"/></clipPath>
+<clipPath id="clip-45"><polygon points="618.23840,414.00000 587.06149,432.00000 555.88457,414.00000 555.88457,378.00000 587.06149,360.00000 618.23840,378.00000"/></clipPath>
+<clipPath id="clip-46"><polygon points="587.06149,468.00000 555.88457,486.00000 524.70766,468.00000 524.70766,432.00000 555.88457,414.00000 587.06149,432.00000"/></clipPath>
+<clipPath id="clip-47"><polygon points="555.88457,522.00000 524.70766,540.00000 493.53074,522.00000 493.53074,486.00000 524.70766,468.00000 555.88457,486.00000"/></clipPath>
+<clipPath id="clip-48"><polygon points="524.70766,576.00000 493.53074,594.00000 462.35383,576.00000 462.35383,540.00000 493.53074,522.00000 524.70766,540.00000"/></clipPath>
+<clipPath id="clip-49"><polygon points="649.41532,468.00000 618.23840,486.00000 587.06149,468.00000 587.06149,432.00000 618.23840,414.00000 649.41532,432.00000"/></clipPath>
+<clipPath id="clip-50"><polygon points="618.23840,522.00000 587.06149,540.00000 555.88457,522.00000 555.88457,486.00000 587.06149,468.00000 618.23840,486.00000"/></clipPath>
+<clipPath id="clip-51"><polygon points="587.06149,576.00000 555.88457,594.00000 524.70766,576.00000 524.70766,540.00000 555.88457,522.00000 587.06149,540.00000"/></clipPath>
+<clipPath id="clip-52"><polygon points="680.59223,522.00000 649.41532,540.00000 618.23840,522.00000 618.23840,486.00000 649.41532,468.00000 680.59223,486.00000"/></clipPath>
+<clipPath id="clip-53"><polygon points="649.41532,576.00000 618.23840,594.00000 587.06149,576.00000 587.06149,540.00000 618.23840,522.00000 649.41532,540.00000"/></clipPath>
+<clipPath id="clip-54"><polygon points="711.76915,576.00000 680.59223,594.00000 649.41532,576.00000 649.41532,540.00000 680.59223,522.00000 711.76915,540.00000"/></clipPath>
+<clipPath id="clip-55"><polygon points="368.82309,90.00000 337.64617,108.00000 306.46926,90.00000 306.46926,54.00000 337.64617,36.00000 368.82309,54.00000"/></clipPath>
+</defs>
+<polygon points="431.17691,90.00000 400.00000,108.00000 368.82309,90.00000 368.82309,54.00000 400.00000,36.00000 431.17691,54.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="400.00000,144.00000 368.82309,162.00000 337.64617,144.00000 337.64617,108.00000 368.82309,90.00000 400.00000,108.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="368.82309,198.00000 337.64617,216.00000 306.46926,198.00000 306.46926,162.00000 337.64617,144.00000 368.82309,162.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="337.64617,252.00000 306.46926,270.00000 275.29234,252.00000 275.29234,216.00000 306.46926,198.00000 337.64617,216.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="306.46926,306.00000 275.29234,324.00000 244.11543,306.00000 244.11543,270.00000 275.29234,252.00000 306.46926,270.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="275.29234,360.00000 244.11543,378.00000 212.93851,360.00000 212.93851,324.00000 244.11543,306.00000 275.29234,324.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="244.11543,414.00000 212.93851,432.00000 181.76160,414.00000 181.76160,378.00000 212.93851,360.00000 244.11543,378.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="212.93851,468.00000 181.76160,486.00000 150.58468,468.00000 150.58468,432.00000 181.76160,414.00000 212.93851,432.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="181.76160,522.00000 150.58468,540.00000 119.40777,522.00000 119.40777,486.00000 150.58468,468.00000 181.76160,486.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="150.58468,576.00000 119.40777,594.00000 88.23085,576.00000 88.23085,540.00000 119.40777,522.00000 150.58468,540.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="462.35383,144.00000 431.17691,162.00000 400.00000,144.00000 400.00000,108.00000 431.17691,90.00000 462.35383,108.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="431.17691,198.00000 400.00000,216.00000 368.82309,198.00000 368.82309,162.00000 400.00000,144.00000 431.17691,162.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="400.00000,252.00000 368.82309,270.00000 337.64617,252.00000 337.64617,216.00000 368.82309,198.00000 400.00000,216.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="368.82309,306.00000 337.64617,324.00000 306.46926,306.00000 306.46926,270.00000 337.64617,252.00000 368.82309,270.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="337.64617,360.00000 306.46926,378.00000 275.29234,360.00000 275.29234,324.00000 306.46926,306.00000 337.64617,324.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="306.46926,414.00000 275.29234,432.00000 244.11543,414.00000 244.11543,378.00000 275.29234,360.00000 306.46926,378.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="275.29234,468.00000 244.11543,486.00000 212.93851,468.00000 212.93851,432.00000 244.11543,414.00000 275.29234,432.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="244.11543,522.00000 212.93851,540.00000 181.76160,522.00000 181.76160,486.00000 212.93851,468.00000 244.11543,486.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="212.93851,576.00000 181.76160,594.00000 150.58468,576.00000 150.58468,540.00000 181.76160,522.00000 212.93851,540.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="493.53074,198.00000 462.35383,216.00000 431.17691,198.00000 431.17691,162.00000 462.35383,144.00000 493.53074,162.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="462.35383,252.00000 431.17691,270.00000 400.00000,252.00000 400.00000,216.00000 431.17691,198.00000 462.35383,216.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="431.17691,306.00000 400.00000,324.00000 368.82309,306.00000 368.82309,270.00000 400.00000,252.00000 431.17691,270.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="400.00000,360.00000 368.82309,378.00000 337.64617,360.00000 337.64617,324.00000 368.82309,306.00000 400.00000,324.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="368.82309,414.00000 337.64617,432.00000 306.46926,414.00000 306.46926,378.00000 337.64617,360.00000 368.82309,378.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="337.64617,468.00000 306.46926,486.00000 275.29234,468.00000 275.29234,432.00000 306.46926,414.00000 337.64617,432.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="306.46926,522.00000 275.29234,540.00000 244.11543,522.00000 244.11543,486.00000 275.29234,468.00000 306.46926,486.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="275.29234,576.00000 244.11543,594.00000 212.93851,576.00000 212.93851,540.00000 244.11543,522.00000 275.29234,540.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="524.70766,252.00000 493.53074,270.00000 462.35383,252.00000 462.35383,216.00000 493.53074,198.00000 524.70766,216.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="493.53074,306.00000 462.35383,324.00000 431.17691,306.00000 431.17691,270.00000 462.35383,252.00000 493.53074,270.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="462.35383,360.00000 431.17691,378.00000 400.00000,360.00000 400.00000,324.00000 431.17691,306.00000 462.35383,324.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="431.17691,414.00000 400.00000,432.00000 368.82309,414.00000 368.82309,378.00000 400.00000,360.00000 431.17691,378.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="400.00000,468.00000 368.82309,486.00000 337.64617,468.00000 337.64617,432.00000 368.82309,414.00000 400.00000,432.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="368.82309,522.00000 337.64617,540.00000 306.46926,522.00000 306.46926,486.00000 337.64617,468.00000 368.82309,486.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="337.64617,576.00000 306.46926,594.00000 275.29234,576.00000 275.29234,540.00000 306.46926,522.00000 337.64617,540.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="555.88457,306.00000 524.70766,324.00000 493.53074,306.00000 493.53074,270.00000 524.70766,252.00000 555.88457,270.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="524.70766,360.00000 493.53074,378.00000 462.35383,360.00000 462.35383,324.00000 493.53074,306.00000 524.70766,324.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="493.53074,414.00000 462.35383,432.00000 431.17691,414.00000 431.17691,378.00000 462.35383,360.00000 493.53074,378.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="462.35383,468.00000 431.17691,486.00000 400.00000,468.00000 400.00000,432.00000 431.17691,414.00000 462.35383,432.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="431.17691,522.00000 400.00000,540.00000 368.82309,522.00000 368.82309,486.00000 400.00000,468.00000 431.17691,486.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="400.00000,576.00000 368.82309,594.00000 337.64617,576.00000 337.64617,540.00000 368.82309,522.00000 400.00000,540.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="587.06149,360.00000 555.88457,378.00000 524.70766,360.00000 524.70766,324.00000 555.88457,306.00000 587.06149,324.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="555.88457,414.00000 524.70766,432.00000 493.53074,414.00000 493.53074,378.00000 524.70766,360.00000 555.88457,378.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="524.70766,468.00000 493.53074,486.00000 462.35383,468.00000 462.35383,432.00000 493.53074,414.00000 524.70766,432.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="493.53074,522.00000 462.35383,540.00000 431.17691,522.00000 431.17691,486.00000 462.35383,468.00000 493.53074,486.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="462.35383,576.00000 431.17691,594.00000 400.00000,576.00000 400.00000,540.00000 431.17691,522.00000 462.35383,540.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="618.23840,414.00000 587.06149,432.00000 555.88457,414.00000 555.88457,378.00000 587.06149,360.00000 618.23840,378.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="587.06149,468.00000 555.88457,486.00000 524.70766,468.00000 524.70766,432.00000 555.88457,414.00000 587.06149,432.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="555.88457,522.00000 524.70766,540.00000 493.53074,522.00000 493.53074,486.00000 524.70766,468.00000 555.88457,486.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="524.70766,576.00000 493.53074,594.00000 462.35383,576.00000 462.35383,540.00000 493.53074,522.00000 524.70766,540.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="649.41532,468.00000 618.23840,486.00000 587.06149,468.00000 587.06149,432.00000 618.23840,414.00000 649.41532,432.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="618.23840,522.00000 587.06149,540.00000 555.88457,522.00000 555.88457,486.00000 587.06149,468.00000 618.23840,486.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="587.06149,576.00000 555.88457,594.00000 524.70766,576.00000 524.70766,540.00000 555.88457,522.00000 587.06149,540.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="680.59223,522.00000 649.41532,540.00000 618.23840,522.00000 618.23840,486.00000 649.41532,468.00000 680.59223,486.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="649.41532,576.00000 618.23840,594.00000 587.06149,576.00000 587.06149,540.00000 618.23840,522.00000 649.41532,540.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="711.76915,576.00000 680.59223,594.00000 649.41532,576.00000 649.41532,540.00000 680.59223,522.00000 711.76915,540.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<polygon points="368.82309,90.00000 337.64617,108.00000 306.46926,90.00000 306.46926,54.00000 337.64617,36.00000 368.82309,54.00000" fill="#181e26" stroke="#65707d" stroke-width="1.1"/>
+<g clip-path="url(#clip-0)"><title>Tile 20</title>
+<g data-tile="20" data-colour="Red" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 384.41154,45.00000 A 18.00000,18.00000 0 0 0 415.58846,45.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 384.41154,45.00000 A 18.00000,18.00000 0 0 0 415.58846,45.00000" stroke="#f04d52" stroke-width="4.1"/>
+</g>
+<g data-tile="20" data-colour="Yellow" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 384.41154,99.00000 A 54.00000,54.00000 0 0 1 431.17691,72.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 384.41154,99.00000 A 54.00000,54.00000 0 0 1 431.17691,72.00000" stroke="#f3d344" stroke-width="4.1"/>
+</g>
+<g data-tile="20" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 415.58846,99.00000 A 54.00000,54.00000 0 0 0 368.82309,72.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 415.58846,99.00000 A 54.00000,54.00000 0 0 0 368.82309,72.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-1)"><title>Tile 55</title>
+<g data-tile="55" data-colour="Yellow" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 384.41154,99.00000 A 54.00000,54.00000 0 0 1 337.64617,126.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 384.41154,99.00000 A 54.00000,54.00000 0 0 1 337.64617,126.00000" stroke="#f3d344" stroke-width="4.1"/>
+</g>
+<g data-tile="55" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 384.41154,153.00000 A 18.00000,18.00000 0 0 1 400.00000,126.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 384.41154,153.00000 A 18.00000,18.00000 0 0 1 400.00000,126.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="55" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 353.23463,99.00000 A 54.00000,54.00000 0 0 1 353.23463,153.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 353.23463,99.00000 A 54.00000,54.00000 0 0 1 353.23463,153.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-2)"><title>Tile 29</title>
+<g data-tile="29" data-colour="Red" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 322.05771,153.00000 A 18.00000,18.00000 0 0 1 306.46926,180.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 322.05771,153.00000 A 18.00000,18.00000 0 0 1 306.46926,180.00000" stroke="#f04d52" stroke-width="4.1"/>
+</g>
+<g data-tile="29" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 322.05771,207.00000 A 54.00000,54.00000 0 0 1 368.82309,180.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 322.05771,207.00000 A 54.00000,54.00000 0 0 1 368.82309,180.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="29" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 353.23463,207.00000 A 54.00000,54.00000 0 0 1 353.23463,153.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 353.23463,207.00000 A 54.00000,54.00000 0 0 1 353.23463,153.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-3)"><title>Tile 43</title>
+<g data-tile="43" data-colour="Green" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 290.88080,207.00000 A 18.00000,18.00000 0 0 1 275.29234,234.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 290.88080,207.00000 A 18.00000,18.00000 0 0 1 275.29234,234.00000" stroke="#3ccb7a" stroke-width="4.1"/>
+</g>
+<g data-tile="43" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 322.05771,207.00000 A 18.00000,18.00000 0 0 0 337.64617,234.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 322.05771,207.00000 A 18.00000,18.00000 0 0 0 337.64617,234.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="43" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 322.05771,261.00000 A 18.00000,18.00000 0 0 0 290.88080,261.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 322.05771,261.00000 A 18.00000,18.00000 0 0 0 290.88080,261.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-4)"><title>Tile 7</title>
+<g data-tile="7" data-colour="Blue" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 259.70388,261.00000 A 18.00000,18.00000 0 0 1 244.11543,288.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 259.70388,261.00000 A 18.00000,18.00000 0 0 1 244.11543,288.00000" stroke="#469ef2" stroke-width="4.1"/>
+</g>
+<g data-tile="7" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 259.70388,315.00000 A 54.00000,54.00000 0 0 1 306.46926,288.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 259.70388,315.00000 A 54.00000,54.00000 0 0 1 306.46926,288.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="7" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 290.88080,315.00000 A 54.00000,54.00000 0 0 1 290.88080,261.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 290.88080,315.00000 A 54.00000,54.00000 0 0 1 290.88080,261.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-5)"><title>Tile 18</title>
+<g data-tile="18" data-colour="Yellow" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 228.52697,315.00000 A 18.00000,18.00000 0 0 1 212.93851,342.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 228.52697,315.00000 A 18.00000,18.00000 0 0 1 212.93851,342.00000" stroke="#f3d344" stroke-width="4.1"/>
+</g>
+<g data-tile="18" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 259.70388,369.00000 A 54.00000,54.00000 0 0 1 259.70388,315.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 259.70388,369.00000 A 54.00000,54.00000 0 0 1 259.70388,315.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="18" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 228.52697,369.00000 A 54.00000,54.00000 0 0 1 275.29234,342.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 228.52697,369.00000 A 54.00000,54.00000 0 0 1 275.29234,342.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-6)"><title>Tile 49</title>
+<g data-tile="49" data-colour="Yellow" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 197.35006,369.00000 A 18.00000,18.00000 0 0 1 181.76160,396.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 197.35006,369.00000 A 18.00000,18.00000 0 0 1 181.76160,396.00000" stroke="#f3d344" stroke-width="4.1"/>
+</g>
+<g data-tile="49" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 228.52697,423.00000 A 18.00000,18.00000 0 0 1 244.11543,396.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 228.52697,423.00000 A 18.00000,18.00000 0 0 1 244.11543,396.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="49" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 228.52697,369.00000 L 197.35006,423.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 228.52697,369.00000 L 197.35006,423.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-7)"><title>Tile 37</title>
+<g data-tile="37" data-colour="Blue" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 166.17314,423.00000 A 18.00000,18.00000 0 0 1 150.58468,450.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 166.17314,423.00000 A 18.00000,18.00000 0 0 1 150.58468,450.00000" stroke="#469ef2" stroke-width="4.1"/>
+</g>
+<g data-tile="37" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 166.17314,477.00000 A 54.00000,54.00000 0 0 1 212.93851,450.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 166.17314,477.00000 A 54.00000,54.00000 0 0 1 212.93851,450.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="37" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 197.35006,477.00000 A 54.00000,54.00000 0 0 1 197.35006,423.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 197.35006,477.00000 A 54.00000,54.00000 0 0 1 197.35006,423.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-8)"><title>Tile 38</title>
+<g data-tile="38" data-colour="Blue" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 134.99623,477.00000 A 18.00000,18.00000 0 0 1 119.40777,504.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 134.99623,477.00000 A 18.00000,18.00000 0 0 1 119.40777,504.00000" stroke="#469ef2" stroke-width="4.1"/>
+</g>
+<g data-tile="38" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 166.17314,531.00000 A 54.00000,54.00000 0 0 1 166.17314,477.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 166.17314,531.00000 A 54.00000,54.00000 0 0 1 166.17314,477.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="38" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 134.99623,531.00000 A 54.00000,54.00000 0 0 1 181.76160,504.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 134.99623,531.00000 A 54.00000,54.00000 0 0 1 181.76160,504.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-9)"><title>Tile 52</title>
+<g data-tile="52" data-colour="Blue" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 103.81931,531.00000 A 54.00000,54.00000 0 0 1 103.81931,585.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 103.81931,531.00000 A 54.00000,54.00000 0 0 1 103.81931,585.00000" stroke="#469ef2" stroke-width="4.1"/>
+</g>
+<g data-tile="52" data-colour="Yellow" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 134.99623,585.00000 A 54.00000,54.00000 0 0 0 88.23085,558.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 134.99623,585.00000 A 54.00000,54.00000 0 0 0 88.23085,558.00000" stroke="#f3d344" stroke-width="4.1"/>
+</g>
+<g data-tile="52" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 134.99623,531.00000 A 18.00000,18.00000 0 0 0 150.58468,558.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 134.99623,531.00000 A 18.00000,18.00000 0 0 0 150.58468,558.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-10)"><title>Tile 54</title>
+<g data-tile="54" data-colour="Yellow" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 446.76537,99.00000 A 18.00000,18.00000 0 0 0 462.35383,126.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 446.76537,99.00000 A 18.00000,18.00000 0 0 0 462.35383,126.00000" stroke="#f3d344" stroke-width="4.1"/>
+</g>
+<g data-tile="54" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 446.76537,153.00000 A 54.00000,54.00000 0 0 0 400.00000,126.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 446.76537,153.00000 A 54.00000,54.00000 0 0 0 400.00000,126.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="54" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 415.58846,99.00000 A 54.00000,54.00000 0 0 1 415.58846,153.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 415.58846,99.00000 A 54.00000,54.00000 0 0 1 415.58846,153.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-11)"><title>Tile 45</title>
+<g data-tile="45" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 384.41154,153.00000 A 18.00000,18.00000 0 0 1 368.82309,180.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 384.41154,153.00000 A 18.00000,18.00000 0 0 1 368.82309,180.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="45" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 415.58846,153.00000 A 18.00000,18.00000 0 0 0 431.17691,180.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 415.58846,153.00000 A 18.00000,18.00000 0 0 0 431.17691,180.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+<g data-tile="45" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 415.58846,207.00000 A 18.00000,18.00000 0 0 0 384.41154,207.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 415.58846,207.00000 A 18.00000,18.00000 0 0 0 384.41154,207.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-12)"><title>Tile 50</title>
+<g data-tile="50" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 337.64617,234.00000 L 400.00000,234.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 337.64617,234.00000 L 400.00000,234.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="50" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 353.23463,207.00000 A 54.00000,54.00000 0 0 1 353.23463,261.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 353.23463,207.00000 A 54.00000,54.00000 0 0 1 353.23463,261.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+<g data-tile="50" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 384.41154,261.00000 A 54.00000,54.00000 0 0 1 384.41154,207.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 384.41154,261.00000 A 54.00000,54.00000 0 0 1 384.41154,207.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-13)"><title>Tile 32</title>
+<g data-tile="32" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 353.23463,315.00000 A 54.00000,54.00000 0 0 0 306.46926,288.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 353.23463,315.00000 A 54.00000,54.00000 0 0 0 306.46926,288.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="32" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 353.23463,261.00000 L 322.05771,315.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 353.23463,261.00000 L 322.05771,315.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+<g data-tile="32" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 322.05771,261.00000 A 54.00000,54.00000 0 0 0 368.82309,288.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 322.05771,261.00000 A 54.00000,54.00000 0 0 0 368.82309,288.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-14)"><title>Tile 56</title>
+<g data-tile="56" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 322.05771,369.00000 A 18.00000,18.00000 0 0 1 337.64617,342.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 322.05771,369.00000 A 18.00000,18.00000 0 0 1 337.64617,342.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="56" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 322.05771,315.00000 A 54.00000,54.00000 0 0 1 275.29234,342.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 322.05771,315.00000 A 54.00000,54.00000 0 0 1 275.29234,342.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+<g data-tile="56" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 290.88080,315.00000 A 54.00000,54.00000 0 0 1 290.88080,369.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 290.88080,315.00000 A 54.00000,54.00000 0 0 1 290.88080,369.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-15)"><title>Tile 4</title>
+<g data-tile="4" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 259.70388,369.00000 A 54.00000,54.00000 0 0 1 259.70388,423.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 259.70388,369.00000 A 54.00000,54.00000 0 0 1 259.70388,423.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="4" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 244.11543,396.00000 L 306.46926,396.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 244.11543,396.00000 L 306.46926,396.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="4" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 290.88080,423.00000 A 54.00000,54.00000 0 0 1 290.88080,369.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 290.88080,423.00000 A 54.00000,54.00000 0 0 1 290.88080,369.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-16)"><title>Tile 41</title>
+<g data-tile="41" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 259.70388,423.00000 A 54.00000,54.00000 0 0 1 212.93851,450.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 259.70388,423.00000 A 54.00000,54.00000 0 0 1 212.93851,450.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="41" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 228.52697,423.00000 A 54.00000,54.00000 0 0 1 228.52697,477.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 228.52697,423.00000 A 54.00000,54.00000 0 0 1 228.52697,477.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="41" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 259.70388,477.00000 A 18.00000,18.00000 0 0 1 275.29234,450.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 259.70388,477.00000 A 18.00000,18.00000 0 0 1 275.29234,450.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-17)"><title>Tile 28</title>
+<g data-tile="28" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 228.52697,531.00000 A 18.00000,18.00000 0 0 0 197.35006,531.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 228.52697,531.00000 A 18.00000,18.00000 0 0 0 197.35006,531.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="28" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 228.52697,477.00000 A 18.00000,18.00000 0 0 0 244.11543,504.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 228.52697,477.00000 A 18.00000,18.00000 0 0 0 244.11543,504.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="28" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 197.35006,477.00000 A 18.00000,18.00000 0 0 1 181.76160,504.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 197.35006,477.00000 A 18.00000,18.00000 0 0 1 181.76160,504.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-18)"><title>Tile 22</title>
+<g data-tile="22" data-colour="Yellow" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 197.35006,585.00000 A 18.00000,18.00000 0 0 0 166.17314,585.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 197.35006,585.00000 A 18.00000,18.00000 0 0 0 166.17314,585.00000" stroke="#f3d344" stroke-width="4.1"/>
+</g>
+<g data-tile="22" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 166.17314,531.00000 A 18.00000,18.00000 0 0 0 197.35006,531.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 166.17314,531.00000 A 18.00000,18.00000 0 0 0 197.35006,531.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="22" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 150.58468,558.00000 L 212.93851,558.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 150.58468,558.00000 L 212.93851,558.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-19)"><title>Tile 24</title>
+<g data-tile="24" data-colour="Red" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 477.94229,153.00000 A 18.00000,18.00000 0 0 0 493.53074,180.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 477.94229,153.00000 A 18.00000,18.00000 0 0 0 493.53074,180.00000" stroke="#f04d52" stroke-width="4.1"/>
+</g>
+<g data-tile="24" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 446.76537,153.00000 L 477.94229,207.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 446.76537,153.00000 L 477.94229,207.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="24" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 446.76537,207.00000 A 18.00000,18.00000 0 0 0 431.17691,180.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 446.76537,207.00000 A 18.00000,18.00000 0 0 0 431.17691,180.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-20)"><title>Tile 51</title>
+<g data-tile="51" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 446.76537,261.00000 A 54.00000,54.00000 0 0 0 400.00000,234.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 446.76537,261.00000 A 54.00000,54.00000 0 0 0 400.00000,234.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="51" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 446.76537,207.00000 L 415.58846,261.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 446.76537,207.00000 L 415.58846,261.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+<g data-tile="51" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 415.58846,207.00000 A 54.00000,54.00000 0 0 0 462.35383,234.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 415.58846,207.00000 A 54.00000,54.00000 0 0 0 462.35383,234.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-21)"><title>Tile 53</title>
+<g data-tile="53" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 384.41154,315.00000 A 54.00000,54.00000 0 0 1 431.17691,288.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 384.41154,315.00000 A 54.00000,54.00000 0 0 1 431.17691,288.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="53" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 415.58846,315.00000 A 54.00000,54.00000 0 0 1 415.58846,261.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 415.58846,315.00000 A 54.00000,54.00000 0 0 1 415.58846,261.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+<g data-tile="53" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 384.41154,261.00000 A 18.00000,18.00000 0 0 1 368.82309,288.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 384.41154,261.00000 A 18.00000,18.00000 0 0 1 368.82309,288.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-22)"><title>Tile 42</title>
+<g data-tile="42" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 353.23463,315.00000 L 384.41154,369.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 353.23463,315.00000 L 384.41154,369.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="42" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 384.41154,315.00000 A 54.00000,54.00000 0 0 1 337.64617,342.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 384.41154,315.00000 A 54.00000,54.00000 0 0 1 337.64617,342.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="42" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 353.23463,369.00000 A 54.00000,54.00000 0 0 1 400.00000,342.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 353.23463,369.00000 A 54.00000,54.00000 0 0 1 400.00000,342.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-23)"><title>Tile 25</title>
+<g data-tile="25" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 353.23463,423.00000 A 18.00000,18.00000 0 0 0 322.05771,423.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 353.23463,423.00000 A 18.00000,18.00000 0 0 0 322.05771,423.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="25" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 322.05771,369.00000 A 18.00000,18.00000 0 0 1 306.46926,396.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 322.05771,369.00000 A 18.00000,18.00000 0 0 1 306.46926,396.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="25" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 353.23463,369.00000 A 18.00000,18.00000 0 0 0 368.82309,396.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 353.23463,369.00000 A 18.00000,18.00000 0 0 0 368.82309,396.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-24)"><title>Tile 34</title>
+<g data-tile="34" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 322.05771,423.00000 L 290.88080,477.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 322.05771,423.00000 L 290.88080,477.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="34" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 322.05771,477.00000 A 54.00000,54.00000 0 0 0 275.29234,450.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 322.05771,477.00000 A 54.00000,54.00000 0 0 0 275.29234,450.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+<g data-tile="34" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 290.88080,423.00000 A 54.00000,54.00000 0 0 0 337.64617,450.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 290.88080,423.00000 A 54.00000,54.00000 0 0 0 337.64617,450.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-25)"><title>Tile 40</title>
+<g data-tile="40" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 290.88080,531.00000 A 54.00000,54.00000 0 0 1 290.88080,477.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 290.88080,531.00000 A 54.00000,54.00000 0 0 1 290.88080,477.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="40" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 244.11543,504.00000 L 306.46926,504.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 244.11543,504.00000 L 306.46926,504.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="40" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 259.70388,477.00000 A 54.00000,54.00000 0 0 1 259.70388,531.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 259.70388,477.00000 A 54.00000,54.00000 0 0 1 259.70388,531.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-26)"><title>Tile 17</title>
+<g data-tile="17" data-colour="Yellow" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 259.70388,585.00000 A 18.00000,18.00000 0 0 0 228.52697,585.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 259.70388,585.00000 A 18.00000,18.00000 0 0 0 228.52697,585.00000" stroke="#f3d344" stroke-width="4.1"/>
+</g>
+<g data-tile="17" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 228.52697,531.00000 A 54.00000,54.00000 0 0 0 275.29234,558.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 228.52697,531.00000 A 54.00000,54.00000 0 0 0 275.29234,558.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="17" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 259.70388,531.00000 A 54.00000,54.00000 0 0 1 212.93851,558.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 259.70388,531.00000 A 54.00000,54.00000 0 0 1 212.93851,558.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-27)"><title>Tile 2</title>
+<g data-tile="2" data-colour="Red" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 509.11920,207.00000 A 18.00000,18.00000 0 0 0 524.70766,234.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 509.11920,207.00000 A 18.00000,18.00000 0 0 0 524.70766,234.00000" stroke="#f04d52" stroke-width="4.1"/>
+</g>
+<g data-tile="2" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 477.94229,207.00000 L 509.11920,261.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 477.94229,207.00000 L 509.11920,261.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="2" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 477.94229,261.00000 A 18.00000,18.00000 0 0 0 462.35383,234.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 477.94229,261.00000 A 18.00000,18.00000 0 0 0 462.35383,234.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-28)"><title>Tile 3</title>
+<g data-tile="3" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 477.94229,315.00000 A 18.00000,18.00000 0 0 0 446.76537,315.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 477.94229,315.00000 A 18.00000,18.00000 0 0 0 446.76537,315.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="3" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 446.76537,261.00000 A 18.00000,18.00000 0 0 1 431.17691,288.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 446.76537,261.00000 A 18.00000,18.00000 0 0 1 431.17691,288.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="3" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 477.94229,261.00000 A 18.00000,18.00000 0 0 0 493.53074,288.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 477.94229,261.00000 A 18.00000,18.00000 0 0 0 493.53074,288.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-29)"><title>Tile 31</title>
+<g data-tile="31" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 446.76537,369.00000 A 54.00000,54.00000 0 0 1 446.76537,315.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 446.76537,369.00000 A 54.00000,54.00000 0 0 1 446.76537,315.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="31" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 415.58846,315.00000 A 18.00000,18.00000 0 0 1 400.00000,342.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 415.58846,315.00000 A 18.00000,18.00000 0 0 1 400.00000,342.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+<g data-tile="31" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 415.58846,369.00000 A 54.00000,54.00000 0 0 1 462.35383,342.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 415.58846,369.00000 A 54.00000,54.00000 0 0 1 462.35383,342.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-30)"><title>Tile 35</title>
+<g data-tile="35" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 384.41154,369.00000 A 54.00000,54.00000 0 0 0 431.17691,396.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 384.41154,369.00000 A 54.00000,54.00000 0 0 0 431.17691,396.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="35" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 415.58846,423.00000 A 54.00000,54.00000 0 0 0 368.82309,396.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 415.58846,423.00000 A 54.00000,54.00000 0 0 0 368.82309,396.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+<g data-tile="35" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 415.58846,369.00000 L 384.41154,423.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 415.58846,369.00000 L 384.41154,423.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-31)"><title>Tile 8</title>
+<g data-tile="8" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 353.23463,423.00000 A 54.00000,54.00000 0 0 1 353.23463,477.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 353.23463,423.00000 A 54.00000,54.00000 0 0 1 353.23463,477.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="8" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 384.41154,477.00000 A 18.00000,18.00000 0 0 1 400.00000,450.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 384.41154,477.00000 A 18.00000,18.00000 0 0 1 400.00000,450.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="8" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 384.41154,423.00000 A 54.00000,54.00000 0 0 1 337.64617,450.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 384.41154,423.00000 A 54.00000,54.00000 0 0 1 337.64617,450.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-32)"><title>Tile 27</title>
+<g data-tile="27" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 353.23463,477.00000 A 18.00000,18.00000 0 0 0 368.82309,504.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 353.23463,477.00000 A 18.00000,18.00000 0 0 0 368.82309,504.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="27" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 353.23463,531.00000 A 54.00000,54.00000 0 0 0 306.46926,504.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 353.23463,531.00000 A 54.00000,54.00000 0 0 0 306.46926,504.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="27" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 322.05771,477.00000 A 54.00000,54.00000 0 0 1 322.05771,531.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 322.05771,477.00000 A 54.00000,54.00000 0 0 1 322.05771,531.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-33)"><title>Tile 23</title>
+<g data-tile="23" data-colour="Yellow" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 322.05771,585.00000 A 18.00000,18.00000 0 0 0 290.88080,585.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 322.05771,585.00000 A 18.00000,18.00000 0 0 0 290.88080,585.00000" stroke="#f3d344" stroke-width="4.1"/>
+</g>
+<g data-tile="23" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 290.88080,531.00000 A 18.00000,18.00000 0 0 1 275.29234,558.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 290.88080,531.00000 A 18.00000,18.00000 0 0 1 275.29234,558.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="23" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 322.05771,531.00000 A 18.00000,18.00000 0 0 0 337.64617,558.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 322.05771,531.00000 A 18.00000,18.00000 0 0 0 337.64617,558.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-34)"><title>Tile 12</title>
+<g data-tile="12" data-colour="Red" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 540.29612,261.00000 A 18.00000,18.00000 0 0 0 555.88457,288.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 540.29612,261.00000 A 18.00000,18.00000 0 0 0 555.88457,288.00000" stroke="#f04d52" stroke-width="4.1"/>
+</g>
+<g data-tile="12" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 509.11920,261.00000 A 54.00000,54.00000 0 0 1 509.11920,315.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 509.11920,261.00000 A 54.00000,54.00000 0 0 1 509.11920,315.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="12" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 540.29612,315.00000 A 54.00000,54.00000 0 0 0 493.53074,288.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 540.29612,315.00000 A 54.00000,54.00000 0 0 0 493.53074,288.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-35)"><title>Tile 10</title>
+<g data-tile="10" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 477.94229,315.00000 A 54.00000,54.00000 0 0 0 524.70766,342.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 477.94229,315.00000 A 54.00000,54.00000 0 0 0 524.70766,342.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="10" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 509.11920,369.00000 A 54.00000,54.00000 0 0 1 509.11920,315.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 509.11920,369.00000 A 54.00000,54.00000 0 0 1 509.11920,315.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="10" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 477.94229,369.00000 A 18.00000,18.00000 0 0 0 462.35383,342.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 477.94229,369.00000 A 18.00000,18.00000 0 0 0 462.35383,342.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-36)"><title>Tile 21</title>
+<g data-tile="21" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 446.76537,369.00000 A 18.00000,18.00000 0 0 1 431.17691,396.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 446.76537,369.00000 A 18.00000,18.00000 0 0 1 431.17691,396.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="21" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 477.94229,423.00000 A 18.00000,18.00000 0 0 0 446.76537,423.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 477.94229,423.00000 A 18.00000,18.00000 0 0 0 446.76537,423.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+<g data-tile="21" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 477.94229,369.00000 A 18.00000,18.00000 0 0 0 493.53074,396.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 477.94229,369.00000 A 18.00000,18.00000 0 0 0 493.53074,396.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-37)"><title>Tile 48</title>
+<g data-tile="48" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 400.00000,450.00000 L 462.35383,450.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 400.00000,450.00000 L 462.35383,450.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="48" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 415.58846,423.00000 A 18.00000,18.00000 0 0 0 446.76537,423.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 415.58846,423.00000 A 18.00000,18.00000 0 0 0 446.76537,423.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+<g data-tile="48" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 446.76537,477.00000 A 18.00000,18.00000 0 0 0 415.58846,477.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 446.76537,477.00000 A 18.00000,18.00000 0 0 0 415.58846,477.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-38)"><title>Tile 9</title>
+<g data-tile="9" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 368.82309,504.00000 L 431.17691,504.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 368.82309,504.00000 L 431.17691,504.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="9" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 384.41154,477.00000 A 54.00000,54.00000 0 0 1 384.41154,531.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 384.41154,477.00000 A 54.00000,54.00000 0 0 1 384.41154,531.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="9" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 415.58846,531.00000 A 54.00000,54.00000 0 0 1 415.58846,477.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 415.58846,531.00000 A 54.00000,54.00000 0 0 1 415.58846,477.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-39)"><title>Tile 26</title>
+<g data-tile="26" data-colour="Red" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 384.41154,585.00000 A 18.00000,18.00000 0 0 0 353.23463,585.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 384.41154,585.00000 A 18.00000,18.00000 0 0 0 353.23463,585.00000" stroke="#f04d52" stroke-width="4.1"/>
+</g>
+<g data-tile="26" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 353.23463,531.00000 A 18.00000,18.00000 0 0 0 384.41154,531.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 353.23463,531.00000 A 18.00000,18.00000 0 0 0 384.41154,531.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="26" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 337.64617,558.00000 L 400.00000,558.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 337.64617,558.00000 L 400.00000,558.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-40)"><title>Tile 16</title>
+<g data-tile="16" data-colour="Green" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 571.47303,315.00000 A 18.00000,18.00000 0 0 0 587.06149,342.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 571.47303,315.00000 A 18.00000,18.00000 0 0 0 587.06149,342.00000" stroke="#3ccb7a" stroke-width="4.1"/>
+</g>
+<g data-tile="16" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 540.29612,369.00000 A 18.00000,18.00000 0 0 0 524.70766,342.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 540.29612,369.00000 A 18.00000,18.00000 0 0 0 524.70766,342.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="16" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 540.29612,315.00000 L 571.47303,369.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 540.29612,315.00000 L 571.47303,369.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-41)"><title>Tile 1</title>
+<g data-tile="1" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 540.29612,423.00000 A 54.00000,54.00000 0 0 1 540.29612,369.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 540.29612,423.00000 A 54.00000,54.00000 0 0 1 540.29612,369.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="1" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 509.11920,369.00000 A 54.00000,54.00000 0 0 0 555.88457,396.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 509.11920,369.00000 A 54.00000,54.00000 0 0 0 555.88457,396.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="1" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 509.11920,423.00000 A 18.00000,18.00000 0 0 0 493.53074,396.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 509.11920,423.00000 A 18.00000,18.00000 0 0 0 493.53074,396.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-42)"><title>Tile 44</title>
+<g data-tile="44" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 509.11920,477.00000 A 54.00000,54.00000 0 0 0 462.35383,450.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 509.11920,477.00000 A 54.00000,54.00000 0 0 0 462.35383,450.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="44" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 477.94229,423.00000 A 54.00000,54.00000 0 0 0 524.70766,450.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 477.94229,423.00000 A 54.00000,54.00000 0 0 0 524.70766,450.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+<g data-tile="44" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 509.11920,423.00000 L 477.94229,477.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 509.11920,423.00000 L 477.94229,477.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-43)"><title>Tile 15</title>
+<g data-tile="15" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 431.17691,504.00000 L 493.53074,504.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 431.17691,504.00000 L 493.53074,504.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="15" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 477.94229,531.00000 A 18.00000,18.00000 0 0 0 446.76537,531.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 477.94229,531.00000 A 18.00000,18.00000 0 0 0 446.76537,531.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+<g data-tile="15" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 446.76537,477.00000 A 18.00000,18.00000 0 0 0 477.94229,477.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 446.76537,477.00000 A 18.00000,18.00000 0 0 0 477.94229,477.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-44)"><title>Tile 19</title>
+<g data-tile="19" data-colour="Red" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 446.76537,585.00000 A 18.00000,18.00000 0 0 0 415.58846,585.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 446.76537,585.00000 A 18.00000,18.00000 0 0 0 415.58846,585.00000" stroke="#f04d52" stroke-width="4.1"/>
+</g>
+<g data-tile="19" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 446.76537,531.00000 A 54.00000,54.00000 0 0 1 400.00000,558.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 446.76537,531.00000 A 54.00000,54.00000 0 0 1 400.00000,558.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+<g data-tile="19" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 415.58846,531.00000 A 54.00000,54.00000 0 0 0 462.35383,558.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 415.58846,531.00000 A 54.00000,54.00000 0 0 0 462.35383,558.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-45)"><title>Tile 13</title>
+<g data-tile="13" data-colour="Red" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 602.64994,369.00000 A 18.00000,18.00000 0 0 0 618.23840,396.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 602.64994,369.00000 A 18.00000,18.00000 0 0 0 618.23840,396.00000" stroke="#f04d52" stroke-width="4.1"/>
+</g>
+<g data-tile="13" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 571.47303,423.00000 A 18.00000,18.00000 0 0 0 555.88457,396.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 571.47303,423.00000 A 18.00000,18.00000 0 0 0 555.88457,396.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="13" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 571.47303,369.00000 L 602.64994,423.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 571.47303,369.00000 L 602.64994,423.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-46)"><title>Tile 30</title>
+<g data-tile="30" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 540.29612,423.00000 L 571.47303,477.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 540.29612,423.00000 L 571.47303,477.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="30" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 571.47303,423.00000 A 18.00000,18.00000 0 0 0 587.06149,450.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 571.47303,423.00000 A 18.00000,18.00000 0 0 0 587.06149,450.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="30" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 540.29612,477.00000 A 18.00000,18.00000 0 0 0 524.70766,450.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 540.29612,477.00000 A 18.00000,18.00000 0 0 0 524.70766,450.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-47)"><title>Tile 39</title>
+<g data-tile="39" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 540.29612,531.00000 A 54.00000,54.00000 0 0 0 493.53074,504.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 540.29612,531.00000 A 54.00000,54.00000 0 0 0 493.53074,504.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="39" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 509.11920,477.00000 A 54.00000,54.00000 0 0 0 555.88457,504.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 509.11920,477.00000 A 54.00000,54.00000 0 0 0 555.88457,504.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="39" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 540.29612,477.00000 L 509.11920,531.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 540.29612,477.00000 L 509.11920,531.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-48)"><title>Tile 47</title>
+<g data-tile="47" data-colour="Blue" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 509.11920,585.00000 A 18.00000,18.00000 0 0 0 477.94229,585.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 509.11920,585.00000 A 18.00000,18.00000 0 0 0 477.94229,585.00000" stroke="#469ef2" stroke-width="4.1"/>
+</g>
+<g data-tile="47" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 477.94229,531.00000 A 18.00000,18.00000 0 0 0 509.11920,531.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 477.94229,531.00000 A 18.00000,18.00000 0 0 0 509.11920,531.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+<g data-tile="47" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 462.35383,558.00000 L 524.70766,558.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 462.35383,558.00000 L 524.70766,558.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-49)"><title>Tile 11</title>
+<g data-tile="11" data-colour="Red" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 633.82686,423.00000 A 18.00000,18.00000 0 0 0 649.41532,450.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 633.82686,423.00000 A 18.00000,18.00000 0 0 0 649.41532,450.00000" stroke="#f04d52" stroke-width="4.1"/>
+</g>
+<g data-tile="11" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 633.82686,477.00000 A 54.00000,54.00000 0 0 0 587.06149,450.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 633.82686,477.00000 A 54.00000,54.00000 0 0 0 587.06149,450.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="11" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 602.64994,423.00000 A 54.00000,54.00000 0 0 1 602.64994,477.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 602.64994,423.00000 A 54.00000,54.00000 0 0 1 602.64994,477.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-50)"><title>Tile 6</title>
+<g data-tile="6" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 571.47303,477.00000 A 54.00000,54.00000 0 0 0 618.23840,504.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 571.47303,477.00000 A 54.00000,54.00000 0 0 0 618.23840,504.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="6" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 602.64994,531.00000 A 54.00000,54.00000 0 0 0 555.88457,504.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 602.64994,531.00000 A 54.00000,54.00000 0 0 0 555.88457,504.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+<g data-tile="6" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 602.64994,477.00000 L 571.47303,531.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 602.64994,477.00000 L 571.47303,531.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-51)"><title>Tile 33</title>
+<g data-tile="33" data-colour="Green" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 571.47303,585.00000 A 18.00000,18.00000 0 0 0 540.29612,585.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 571.47303,585.00000 A 18.00000,18.00000 0 0 0 540.29612,585.00000" stroke="#3ccb7a" stroke-width="4.1"/>
+</g>
+<g data-tile="33" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 540.29612,531.00000 A 54.00000,54.00000 0 0 0 587.06149,558.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 540.29612,531.00000 A 54.00000,54.00000 0 0 0 587.06149,558.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="33" data-colour="Yellow" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 571.47303,531.00000 A 54.00000,54.00000 0 0 1 524.70766,558.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 571.47303,531.00000 A 54.00000,54.00000 0 0 1 524.70766,558.00000" stroke="#f3d344" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-52)"><title>Tile 36</title>
+<g data-tile="36" data-colour="Green" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 665.00377,477.00000 A 18.00000,18.00000 0 0 0 680.59223,504.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 665.00377,477.00000 A 18.00000,18.00000 0 0 0 680.59223,504.00000" stroke="#3ccb7a" stroke-width="4.1"/>
+</g>
+<g data-tile="36" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 665.00377,531.00000 A 54.00000,54.00000 0 0 0 618.23840,504.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 665.00377,531.00000 A 54.00000,54.00000 0 0 0 618.23840,504.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="36" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 633.82686,477.00000 A 54.00000,54.00000 0 0 1 633.82686,531.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 633.82686,477.00000 A 54.00000,54.00000 0 0 1 633.82686,531.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-53)"><title>Tile 5</title>
+<g data-tile="5" data-colour="Yellow" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 633.82686,585.00000 A 18.00000,18.00000 0 0 0 602.64994,585.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 633.82686,585.00000 A 18.00000,18.00000 0 0 0 602.64994,585.00000" stroke="#f3d344" stroke-width="4.1"/>
+</g>
+<g data-tile="5" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 587.06149,558.00000 L 649.41532,558.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 587.06149,558.00000 L 649.41532,558.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+<g data-tile="5" data-colour="Blue" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 602.64994,531.00000 A 18.00000,18.00000 0 0 0 633.82686,531.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 602.64994,531.00000 A 18.00000,18.00000 0 0 0 633.82686,531.00000" stroke="#469ef2" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-54)"><title>Tile 14</title>
+<g data-tile="14" data-colour="Blue" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 696.18069,585.00000 A 18.00000,18.00000 0 0 0 665.00377,585.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 696.18069,585.00000 A 18.00000,18.00000 0 0 0 665.00377,585.00000" stroke="#469ef2" stroke-width="4.1"/>
+</g>
+<g data-tile="14" data-colour="Yellow" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 696.18069,531.00000 A 18.00000,18.00000 0 0 0 711.76915,558.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 696.18069,531.00000 A 18.00000,18.00000 0 0 0 711.76915,558.00000" stroke="#f3d344" stroke-width="4.1"/>
+</g>
+<g data-tile="14" data-colour="Red" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 665.00377,531.00000 A 18.00000,18.00000 0 0 1 649.41532,558.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 665.00377,531.00000 A 18.00000,18.00000 0 0 1 649.41532,558.00000" stroke="#f04d52" stroke-width="6.3"/>
+</g>
+</g>
+<g clip-path="url(#clip-55)"><title>Tile 46</title>
+<g data-tile="46" data-colour="Blue" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 322.05771,45.00000 A 54.00000,54.00000 0 0 1 322.05771,99.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 322.05771,45.00000 A 54.00000,54.00000 0 0 1 322.05771,99.00000" stroke="#469ef2" stroke-width="4.1"/>
+</g>
+<g data-tile="46" data-colour="Yellow" data-scored="false" opacity="0.36" fill="none" stroke-linecap="round">
+<path d="M 353.23463,45.00000 A 54.00000,54.00000 0 0 1 306.46926,72.00000" stroke="#181e26" stroke-width="6.5"/>
+<path d="M 353.23463,45.00000 A 54.00000,54.00000 0 0 1 306.46926,72.00000" stroke="#f3d344" stroke-width="4.1"/>
+</g>
+<g data-tile="46" data-colour="Green" data-scored="true" opacity="1" fill="none" stroke-linecap="round">
+<path d="M 353.23463,99.00000 A 18.00000,18.00000 0 0 1 368.82309,72.00000" stroke="#181e26" stroke-width="8.7"/>
+<path d="M 353.23463,99.00000 A 18.00000,18.00000 0 0 1 368.82309,72.00000" stroke="#3ccb7a" stroke-width="6.3"/>
+</g>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#28323d">
+<path d="M 73,643 h 24" stroke="#f04d52" stroke-width="6" stroke-linecap="round"/>
+<text x="108" y="650" font-size="19">Red <tspan font-weight="700">33</tspan></text>
+<path d="M 248,643 h 24" stroke="#469ef2" stroke-width="6" stroke-linecap="round"/>
+<text x="283" y="650" font-size="19">Blue <tspan font-weight="700">35</tspan></text>
+<path d="M 423,643 h 24" stroke="#3ccb7a" stroke-width="6" stroke-linecap="round"/>
+<text x="458" y="650" font-size="19">Green <tspan font-weight="700">38</tspan></text>
+<path d="M 598,643 h 24" stroke="#f3d344" stroke-width="6" stroke-linecap="round"/>
+<text x="633" y="650" font-size="19">Yellow <tspan font-weight="700">30</tspan></text>
+<text x="400" y="695" text-anchor="middle" font-size="24" font-weight="700">Total 136</text>
+</g></svg>

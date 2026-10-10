@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="310" viewBox="0 0 800 310" role="img" aria-labelledby="title description">
+<title id="title">A boundary switch increases an even network from three contacts to four</title>
+<desc id="description">Four dots represent four neighbouring tile centres. In the first panel three solid contacts form a triangle. The shading marks the region to switch. Switching its boundary removes the shared contact and adds two previously omitted contacts. The resulting four solid contacts form a rhombus. Every dot has an even number of solid contacts before and after.</desc>
+<rect width="800" height="310" fill="white"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#28323d">
+<text x="170" y="38" text-anchor="middle" font-size="21" font-weight="700">Before: 3 contacts</text>
+<polygon points="200.000,102.000 140.000,205.923 260.000,205.923" fill="#e5edf4"/>
+<line x1="80.000" y1="102.000" x2="200.000" y2="102.000" stroke="#304f6a" stroke-width="5" stroke-linecap="round"/>
+<line x1="80.000" y1="102.000" x2="140.000" y2="205.923" stroke="#304f6a" stroke-width="5" stroke-linecap="round"/>
+<line x1="200.000" y1="102.000" x2="140.000" y2="205.923" stroke="#304f6a" stroke-width="5" stroke-linecap="round"/>
+<line x1="200.000" y1="102.000" x2="260.000" y2="205.923" stroke="#929fac" stroke-width="3" stroke-dasharray="7 7" stroke-linecap="round"/>
+<line x1="140.000" y1="205.923" x2="260.000" y2="205.923" stroke="#929fac" stroke-width="3" stroke-dasharray="7 7" stroke-linecap="round"/>
+<circle cx="80.000" cy="102.000" r="7" fill="#182d40" stroke="white" stroke-width="2"/>
+<circle cx="200.000" cy="102.000" r="7" fill="#182d40" stroke="white" stroke-width="2"/>
+<circle cx="140.000" cy="205.923" r="7" fill="#182d40" stroke="white" stroke-width="2"/>
+<circle cx="260.000" cy="205.923" r="7" fill="#182d40" stroke="white" stroke-width="2"/>
+<text x="200" y="166" text-anchor="middle" font-size="14" fill="#526477"><tspan x="200">region to</tspan><tspan x="200" dy="18">switch</tspan></text>
+<text x="590" y="38" text-anchor="middle" font-size="21" font-weight="700">After: 4 contacts</text>
+<polygon points="620.000,102.000 560.000,205.923 680.000,205.923" fill="#e5edf4"/>
+<line x1="500.000" y1="102.000" x2="620.000" y2="102.000" stroke="#304f6a" stroke-width="5" stroke-linecap="round"/>
+<line x1="500.000" y1="102.000" x2="560.000" y2="205.923" stroke="#304f6a" stroke-width="5" stroke-linecap="round"/>
+<line x1="620.000" y1="102.000" x2="560.000" y2="205.923" stroke="#929fac" stroke-width="3" stroke-dasharray="7 7" stroke-linecap="round"/>
+<line x1="620.000" y1="102.000" x2="680.000" y2="205.923" stroke="#304f6a" stroke-width="5" stroke-linecap="round"/>
+<line x1="560.000" y1="205.923" x2="680.000" y2="205.923" stroke="#304f6a" stroke-width="5" stroke-linecap="round"/>
+<circle cx="500.000" cy="102.000" r="7" fill="#182d40" stroke="white" stroke-width="2"/>
+<circle cx="620.000" cy="102.000" r="7" fill="#182d40" stroke="white" stroke-width="2"/>
+<circle cx="560.000" cy="205.923" r="7" fill="#182d40" stroke="white" stroke-width="2"/>
+<circle cx="680.000" cy="205.923" r="7" fill="#182d40" stroke="white" stroke-width="2"/>
+<path d="M 345 151 H 435 M 423 142 L 435 151 L 423 160" fill="none" stroke="#617082" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="390" y="132" text-anchor="middle" font-size="16">switch</text>
+<text x="400" y="253" text-anchor="middle" font-size="18">Add two contacts; remove one. Each dot still has 0 or 2 contacts.</text>
+<line x1="144" y1="289" x2="178" y2="289" stroke="#304f6a" stroke-width="4"/>
+<text x="190" y="294" font-size="15">retained contact</text>
+<line x1="348" y1="289" x2="382" y2="289" stroke="#929fac" stroke-width="3" stroke-dasharray="7 6"/>
+<text x="394" y="294" font-size="15">omitted contact</text>
+<circle cx="560" cy="289" r="5" fill="#182d40"/>
+<text x="574" y="294" font-size="15">tile centre</text>
+</g></svg>
